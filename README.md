@@ -25,3 +25,5 @@ Survey automation helps businesses streamline operations, reduce costs, and make
 There are many tools available in the market, but choosing the right one depends on your business needs, budget, and scale.
 
 For a detailed comparison and expert insights, check out the complete guide linked above.
+For more insights on survey tools and automation strategies, visit:
+https://www.quantclix.com/
